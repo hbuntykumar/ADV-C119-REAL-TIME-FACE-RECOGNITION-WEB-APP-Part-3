@@ -1,0 +1,22 @@
+.h3{width: 100%;   
+ margin:0px;
+ font-size:25px;
+ box-shadow:7px 7px 7px red;}
+
+ .div1{float:none;
+ background-color: rgb(255, 106, 6);   
+ font-size: 25;
+ padding: 10px;
+ border-radius:20px ;
+ box-shadow: 7px 7px 7px rgb(61, 194, 246);}
+
+ .b{
+ font-size: 25px;   
+box-shadow: 9px 9px 9px rgba(93, 248, 54, 0.808);
+ }
+
+ Canvas{
+    border-radius:40px ;   
+    box-shadow: 10px 10px 10px rgb(61, 61, 66);
+    border:15px solid rgb(255, 106, 6);
+ }
